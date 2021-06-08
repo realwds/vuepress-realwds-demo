@@ -1,0 +1,39 @@
+{
+  "name": "vuepress-realwds-demo",
+  "version": "1.0.0",
+  "description": "vuepress-theme-realwds demo",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/realwds/vuepress-realwds-demo.git"
+  },
+  "keywords": [
+    "vuepress",
+    "realwds"
+  ],
+  "author": "realwds",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/realwds/vuepress-realwds-demo/issues"
+  },
+  "homepage": "https://github.com/realwds/vuepress-realwds-demo#readme",
+  "devDependencies": {
+    "@vuepress/plugin-back-to-top": "^1.8.2",
+    "@vuepress/plugin-nprogress": "^1.8.2",
+    "@vuepress/plugin-pwa": "^1.8.2",
+    "markdown-it-include": "^2.0.0",
+    "moment": "^2.29.1",
+    "vuepress": "^1.8.2",
+    "vuepress-plugin-clean-urls": "^1.1.2",
+    "vuepress-plugin-one-click-copy": "^1.0.3",
+    "vuepress-plugin-thirdparty-search": "^1.0.2",
+    "vuepress-theme-realwds": "^1.1.3"
+  }
+}
