@@ -11,8 +11,6 @@
 - GitHub：<https://github.com/realwds>
 - Telegram：<a href="https://t.me/realwds" target="_blank">https://t.me/realwds</a>
 
-<img src="/img/about-contact.jpg" width="200"/> 
-
 <script>
   export default {
     data(){

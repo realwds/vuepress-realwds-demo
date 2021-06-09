@@ -13,8 +13,6 @@ The most commonly used buttons ```CTRL+C``` ```CTRL+V```。
   <img class="githubCard" src="https://ghchart.rshah.org/realwds" alt="github" />
 </a> 
 
-<img src="/img/about-me.jpg" width="200"/> 
-
 <style>
 .githubCard {
   display: block;
